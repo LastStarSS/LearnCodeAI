@@ -30,7 +30,7 @@ This guide provides step-by-step instructions to install and set up three popula
 
 ## Anylabelling
 
-## **Installation (Python)**
+### **Installation (Python)**
 
 1. Create conda environment (Python 3.10+, 3.12 is reccomended):
    ```sh
